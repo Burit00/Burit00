@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
-- 🔭 I’m currently working on [FitFolio](https://www.fitfolio.pl)
+
+- 🔭 I’m currently working on [FitFolio](https://www.fitfolio.pl) project
 
 - 🏫 I’m studying at **Rzeszów University of Technology**
 
