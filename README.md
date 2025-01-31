@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 
-<h3 align="center">Languages and Tools:</h3>
+<br />
+
+<h2 align="center">Languages and Tools</h3>
 <p align="center"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/></a> 
   &nbsp;
@@ -17,7 +19,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/></a>   
 </p>
 
-<h3 align="center">About me:</h3>
+<br />
+
+<h2 align="center">About me</h3>
 
 - 🏫 I’m studying at **Rzeszów University of Technology**
   
@@ -25,6 +29,7 @@
    - Technologies: Next.js, .NET 8, PostgreSQL
 
 
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=burit00&show_icons=true&locale=en" alt="burit00" /></p>
+<br />
+<br />
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=burit00&theme=github_dark&show_icons=true&locale=en" alt="burit00" /></p>
 
