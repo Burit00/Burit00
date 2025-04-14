@@ -25,8 +25,13 @@
 
 - 🏫 I’m studying at **Rzeszów University of Technology**
   
-- 🔭 I’m currently working on [FitFolio](https://www.fitfolio.pl) project
+- 🔭 My last project: [FitFolio](https://www.fitfolio.pl)
    - Technologies: Next.js, .NET 8, PostgreSQL
+
+- 🗃️ I'm currently working on Inventio project
+   - Technologies: Angular, Django, PostgreSQL
+   - Backend Repo: [InventioBackend](https://github.com/Kwiatek-Ekipa/InventioBackend)
+   - Frontend Repo: [InventioFrontend](https://github.com/Kwiatek-Ekipa/InventioFrontend)
 
 
 <br />
