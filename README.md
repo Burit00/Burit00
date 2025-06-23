@@ -25,7 +25,9 @@
 
 - 🏫 I’m studying at **Rzeszów University of Technology**
   
-- 🔭 My last project: [FitFolio](https://www.fitfolio.pl)
+- 🔭 My last project: FitUp
+   - [FitUpAppFrontend](https://github.com/Burit00/FitUpAppFrontend)
+   - [FitUpAppBackend](https://github.com/Burit00/FitUpAppBackend)
    - Technologies: Next.js, .NET 8, PostgreSQL
 
 - 🗃️ I'm currently working on Inventio project
