@@ -21,19 +21,21 @@
 
 <br />
 
-<h2 align="center">About me</h3>
+<h2 align="center">My projects</h2>
 
-- 🏫 I’m studying at **Rzeszów University of Technology**
-  
-- 🔭 My last project: FitUp
-   - [FitUpAppFrontend](https://github.com/Burit00/FitUpAppFrontend)
-   - [FitUpAppBackend](https://github.com/Burit00/FitUpAppBackend)
+- FitUp - *Workout Management Application*
    - Technologies: Next.js, .NET 8, PostgreSQL
+   - [Frontend](https://github.com/Burit00/FitUpAppFrontend)
+   - [Backend](https://github.com/Burit00/FitUpAppBackend)
 
-- 🗃️ I'm currently working on Inventio project
+- Inventio - *Inventory Management Application*
    - Technologies: Angular, Django, PostgreSQL
-   - Backend Repo: [InventioBackend](https://github.com/Kwiatek-Ekipa/InventioBackend)
-   - Frontend Repo: [InventioFrontend](https://github.com/Kwiatek-Ekipa/InventioFrontend)
+   - [Frontend](https://github.com/Kwiatek-Ekipa/InventioFrontend)
+   - [Backend](https://github.com/Kwiatek-Ekipa/InventioBackend)
+
+- System sprawozdań - *Report Submission System*
+   - Technologies: Blazor, .NET 6, PostgreSQL
+   - [Frontend & Backend](https://github.com/Burit00/SystemSprawozdan)
 
 
 <br />
