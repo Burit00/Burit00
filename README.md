@@ -38,7 +38,3 @@
    - [Frontend & Backend](https://github.com/Burit00/SystemSprawozdan)
 
 
-<br />
-<br />
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=burit00&theme=github_dark&show_icons=true&locale=en" alt="burit00" /></p>
-
